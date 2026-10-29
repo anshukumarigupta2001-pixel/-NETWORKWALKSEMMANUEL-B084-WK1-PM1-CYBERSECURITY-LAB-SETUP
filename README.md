@@ -103,7 +103,7 @@ Save the screenshots in the `screenshots/` directory and reference them in this 
 ![Kali Linux Desktop](Picture.jpeg)
 
 ### VMware Virtual Machine Settings
-![VMware Settings](Picture1.jpeg)
+![VMware Settings](https://github.com/anshukumarigupta2001-pixel/-NETWORKWALKSEMMANUEL-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/Picture%201.jpeg)
 
 ### Results
 Kali Linux successfully starts in VMware Workstation. Network connectivity verification is pending documentation.
