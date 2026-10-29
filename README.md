@@ -100,7 +100,7 @@ Save the screenshots in the `screenshots/` directory and reference them in this 
 ## Screenshots
 
 ### Kali Linux Desktop
-![Kali Linux Desktop](screenshots/01-kali-desktop.jpeg)
+![Kali Linux Desktop](Picture.jpeg)
 
 ### VMware Virtual Machine Settings
 ![VMware Settings](screenshots/02-vmware-settings.jpeg)
